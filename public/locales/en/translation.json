@@ -1,0 +1,34 @@
+{
+    "navt1" : "Portfolio",
+    "navt2" : "Blog",
+    "navt3" : "CV",
+    "navt4" : "Store",
+    "navt5" : "Freelance",
+    "navt6" : "About me",
+    "navt7" : "Contact",
+
+    "herotitle" : "Blog Posts",
+    "herotitle2" : "I think so, this is it.",
+    "herotext" : "Design begins after I begin to think about how to present an experience most successfully, whether a button I put in can solve a problem. The only point in design is not ui design, if the user does not have a good experience at the end of the product, the design will be considered unsuccessful in my opinion.",
+
+    "productsList1" : "All",
+    "productsList2" : "Ui design",
+    "productsList3" : "Ux design",
+    "productsList4" : "Product Design",
+    "productsList5" : "Articles",
+    "productsList6" : "Tutorials",
+    "productsList7" : "News",
+
+    "carddate" : "November 23 2022",
+    "cardtitle" : "This way is wrong about UI Design.",
+    "cardtext" : "A guide to assisting users in the challenging steps from learning about your podcast on the web.  A quick guide to assisting users in the challenging steps from learning about your podcast on the web. ",
+
+    "cardlink" : "Read More",
+
+    "singlepageh1" : "Blog details H1",
+    "singlepageh2" : "Blog details H2",
+    "singlepageh3" : "Blog details H3",
+    "singlepaget1" : "Just like graphic design and web development, UX design trends come and go for a reason. UX is all about developing a better digital world for humanity. It’s a field that requires innovation, but  that is constantly evolving.Regularly following UX design blogs can help you keep on top of  changes in the industry, as well as develop your UX skills.",
+    "singlepaget2" : "Additionally, many UX design blogs expose you to case studies detailing an app or web’s  successful development, along with how its usability was improved. Reading about these types of cases can help give you ideas. In this sense, UX design blogs can help provide an indication for the kinds of directions your future projects should take."
+
+}

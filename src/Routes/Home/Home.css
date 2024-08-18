@@ -1,0 +1,150 @@
+.Hero{
+    margin-top: 138px;
+    width: 100%;
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.hero-content h2{
+    width: 630px;
+    font-size: 52px;
+    color: #D05270;
+    line-height: 62px;
+    font-weight: 700;
+}
+
+.hero-content h3{
+    margin-top: 12px;
+    width: 630px;
+    font-size: 52px;
+    color: #424242;
+    font-weight: 500;
+    line-height: 62px;
+}
+
+.hero-content p{
+    margin-top: 36px;
+    width: 630px;
+    font-size: 18px;
+    color: #424242;
+    line-height: 22px;
+    font-weight: 400px;
+}
+
+.hero-links{
+    margin-top: 36px;
+    display: flex;
+    align-items: center;
+    gap: 18px;
+}
+
+.twitter{
+    font-size: 12px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #47ACDF;
+    padding: 22px 49px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.linkedin{
+    font-size: 12px;
+    text-decoration: none;
+    color: #fff;
+    padding: 22px 44px;
+    background-color: #1275B1;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.medium{
+    font-size: 12px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #000;
+    padding: 22px 41px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.products{
+    margin-top: 300px;
+}
+
+.products-list{
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+
+.products-list-item{
+    padding: 8px 0px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #424242;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.products-list-item:hover{
+    color: #D05270;
+}
+
+.products-list-item:focus{
+    color: #D05270;
+    border-bottom: 1px solid #D05270;
+}
+
+.card-wrapper{
+    margin-top: 110px;
+    display: flex;
+    gap:  75px 20px;
+    flex-wrap: wrap;
+}
+
+.card{
+    width: 590px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.card-date{
+    text-transform: capitalize;
+    color: #424242;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 600;
+}
+
+.card-title{
+    text-transform: capitalize;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    color: #D05270;
+}
+
+.card-text{
+    color: #424242;
+    font-size: 16px;
+    line-height: 19px;
+    font-weight: 400;
+}
+
+.card-link{
+    text-transform: capitalize;
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 500;
+    color: #D05270;
+    margin-top: 14px;
+}

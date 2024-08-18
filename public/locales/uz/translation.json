@@ -1,0 +1,34 @@
+{
+    "navt1" : "Portfel",
+    "navt2" : "Blog",
+    "navt3" : "Rezyume",
+    "navt4" : "Do'kon",
+    "navt5" : "mustaqil",
+    "navt6" : "Men haqimda",
+    "navt7" : "Bog'lanish",
+
+    "herotitle" : "Blog Postlari",
+    "herotitle2" : "Men shunday deb o'ylayman, bu shunday",
+    "herotext" : "Dizayn men qanday qilib tajribani eng muvaffaqiyatli taqdim etishni, men qo'ygan tugma muammoni hal qila oladimi yoki yo'qligini o'ylay boshlaganimdan keyin boshlanadi. Dizayndagi yagona nuqta ui dizayni emas, agar foydalanuvchi mahsulot oxirida yaxshi tajribaga ega bo'lmasa, dizayn mening fikrimcha muvaffaqiyatsiz deb hisoblanadi.",
+
+    "productsList1" : "Barchasi",
+    "productsList2" : "Ui dizayni",
+    "productsList3" : "Ux dizayni",
+    "productsList4" : "Mahsulot dizayni",
+    "productsList5" : "maqolalar",
+    "productsList6" : "darsliklar",
+    "productsList7" : "yangiliklar",
+
+    "carddate" : "Noyabr 23 2022",
+    "cardtitle" : "Bu UI dizayni haqida noto'g'ri.",
+    "cardtext" : "Foydalanuvchilarga internetdagi podkastingizni oʻrganishdan boshlab qiyin bosqichlarda yordam berish boʻyicha qoʻllanma.  Internetda podkastingiz haqida bilishdan boshlab foydalanuvchilarga qiyin bosqichlarda yordam berish uchun tezkor qo'llanma.",
+
+    "cardlink" : "ko'proq o'qish",
+
+    "singlepageh1" : "Blog tafsilotlari H1",
+    "singlepageh2" : "Blog tafsilotlari H2",
+    "singlepageh3" : "Blog tafsilotlari H3",
+    "singlepaget1" : "Grafik dizayn va veb-ishlab chiqish kabi, UX dizayn tendentsiyalari ham biron bir sababga ko'ra keladi va ketadi. UX insoniyat uchun yaxshiroq raqamli dunyoni rivojlantirishga qaratilgan. Bu innovatsiyalarni talab qiladigan soha, lekin u doimo rivojlanib boradi.UX dizayn bloglarini muntazam kuzatib borish sizga sohadagi o‘zgarishlardan xabardor bo‘lishga yordam beradi, shuningdek, UX ko‘nikmalaringizni rivojlantiradi.",
+    "singlepaget2" : "Bundan tashqari, ko'plab UX dizayn bloglari sizni ilova yoki vebning muvaffaqiyatli rivojlanishi va undan foydalanish qulayligi qanday yaxshilangani haqida batafsil ma'lumot beruvchi amaliy tadqiqotlar bilan tanishtiradi. Ushbu turdagi holatlar haqida o'qish sizga g'oyalar berishga yordam beradi. Shu ma'noda, UX dizayn bloglari kelajakdagi loyihalaringiz qanday yo'nalishlarga ega bo'lishi kerakligini ko'rsatishga yordam beradi."
+
+}
